@@ -58,16 +58,15 @@ I study every day after work and dedicate my Saturdays to hands-on practice in m
 
 | Repository | Category | Description |
 |-----------|----------|-------------|
-| [wireshark-traffic-analysis](../wireshark-traffic-analysis) | Network Forensics | Traffic capture analysis and threat detection using Wireshark |
-| [tcpdump-analysis](../tcpdump-analysis) | Network Forensics | CLI-based packet capture and filtering with tcpdump |
-| [nmap-network-analysis](../nmap-network-analysis) | Reconnaissance | Network scanning, port analysis and enumeration |
-| [cybersecurity-fundamentals](../cybersecurity-fundamentals) | Theory & Concepts | Core concepts: CIA, protocols, attack types, governance |
+| [wireshark-traffic-analysis](network-forensics/wireshark-traffic-analysis) | Network Forensics | Traffic capture analysis and threat detection using Wireshark |
+| [tcpdump-analysis](network-forensics/tcpdump-analysis) | Network Forensics | CLI-based packet capture and filtering with tcpdump |
+| [nmap-network-analysis](network-forensics/nmap-network-analysis) | Reconnaissance | Network scanning, port analysis and enumeration |
 
 ---
 
 ## 📝 Latest Write-ups
 
-- 🔍 [Credentials Breach Investigation — Wireshark Forensic Analysis](./wireshark-traffic-analysis/writeup_credentials_breach.md)
+- 🔍 [Credentials Breach Investigation — Wireshark Forensic Analysis](network-forensics/wireshark-traffic-analysis/writeup.md)
 - *(more coming soon)*
 
 ---
