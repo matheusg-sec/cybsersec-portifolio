@@ -1,5 +1,5 @@
 
-# Network-Analysis-01: TCP Handshake & Reconnaissance Detection
+#TCP Handshake & Reconnaissance Detection
 
 ## 1. Executive Summary
 During a routine network monitoring session, the IDS (Intrusion Detection System) triggered an alert regarding abnormal traffic patterns. Further analysis revealed a massive volume of **TCP-SYN** packets originating from multiple external sources. This behavior is consistent with a **TCP SYN Flood (DDoS)** attempt or a wide-scale **SYN Scan** (Reconnaissance phase), targeting internal services to identify open ports and exhaust system resources.
