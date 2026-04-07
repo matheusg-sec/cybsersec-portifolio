@@ -76,10 +76,10 @@ I study every day after work and dedicate my Saturdays to hands-on practice in m
 | Certificate | Institution | Status |
 |------------|-------------|--------|
 | Cybersecurity Course | Tokio School (PT) | 🟡 In Progress |
-| Cybersecurity: Beginner to Expert | Udemy | 🟡 In Progress |
+| Cybersecurity: Beginner to Expert | Udemy | completed |
 | Nmap & Wireshark | Udemy | 🟡 In Progress |
 | CompTIA Security+ | CompTIA | 🎯 Target: July 2025 |
-| Cisco Cybersecurity Essentials | Cisco / Tokio School | 🎯 Upcoming |
+| Cisco Network Basics | Cisco / Tokio School | completed |
 | TryHackMe SOC Level 1 | TryHackMe | 🟡 In Progress |
 
 ---
